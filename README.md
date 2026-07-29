@@ -9,7 +9,7 @@ This project analyses the Superstore Sales dataset from Kaggle to discover busin
 
 ## Dashboard Preview
 
-![Dashboard](images/dashboard.png)
+![Dashboard](images/dashborad.png)
 
 ## Features
 
